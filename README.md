@@ -14,7 +14,7 @@ and my major is Information Technologies(IS). Trainee for Frontend assitant in S
 
 ---
 ## Education
-Bachelor of Information Technologies 
+Bachelor of Information Technologies <br>
 Suleman Demiral University
 Graduation Year: 2026
 
