@@ -21,14 +21,31 @@ Graduation Year: 2026
 Faculty of Engineering and Natural Sciences
 
 ---
-# Hard Skills
+## Hard Skills
 - Python, Javascript
 - Django DRF, ORM
 - HTML & CSS
 - Git
 
 ---
-# Soft Skills
+## Soft Skills
 - Time-management
-- Self
+- Independence and Proactivity
+- Communation skills
+- Critical thinking
+- Abilties in team work
+
+---
+## Knowledge of languages
+- Kazakh (Native)
+- English (B2)
+- Russian (native)
+- Turkish (A1)
+
+## Contacts
+Kaskelen, Almaty, Kazakhstan.
+*Phone: 8-707-714-69-23*
+*Email: meiirzhan04@gmail.com*
+*Linkedin: https://www.linkedin.com/in/meirzhan-amangaliyev-a98533252*
+
 
