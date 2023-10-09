@@ -1,4 +1,4 @@
-## Amangaliyev Meirzhan
+# Amangaliyev Meirzhan
 ---
 Hello Everyone!
 My name is Meirzhan! I am 18 years old. I am currently student in Suleyman Demiral University
