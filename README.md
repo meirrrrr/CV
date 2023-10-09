@@ -44,8 +44,8 @@ Faculty of Engineering and Natural Sciences
 
 ## Contacts
 Kaskelen, Almaty, Kazakhstan <br> 
-*Phone: 8-707-714-69-23 <br>
+*Phone: 8-707-714-69-23* <br>
 *Email: meiirzhan04@gmail.com* <br>
-*Linkedin: https://www.linkedin.com/in/meirzhan-amangaliyev-a98533252
+*Linkedin: https://www.linkedin.com/in/meirzhan-amangaliyev-a98533252*
 
 
