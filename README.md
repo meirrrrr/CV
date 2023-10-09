@@ -1,7 +1,7 @@
 # Amangaliyev Meirzhan
 ---
 Hello Everyone!
-My name is Meirzhan! I am 18 years old. I am currently student in Suleyman Demiral University
+My name is Meirzhan! I am 18 years old. I am currently Sophomore in Suleyman Demiral University
 and my major is Information Technologies(IS). Trainee for Frontend assitant in SDU TechnoPark.
 
 ---
