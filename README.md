@@ -29,10 +29,10 @@ Faculty of Engineering and Natural Sciences
 ---
 ## Soft Skills
 - Time-management
-- Independence and Proactivity
-- Communation skills
+- Communication skills
 - Critical thinking
 - Abilties in team work
+- Responsible
 
 ---
 ## Knowledge of languages
