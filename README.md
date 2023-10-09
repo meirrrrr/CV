@@ -13,4 +13,22 @@ and my major is Information Technologies(IS). Trainee for Frontend assitant in S
 | **Marketplace** | Backend for marketplace on Python using Django, Django Rest Framework, SQL. Authentication with token, requests to Database, using decorators for catch errors. Opportunity to choose product, send orders to basket, create and update personal account.| Python, Django, DRF, SQL, Redis, Git |
 
 ---
+## Education
+Bachelor of Information Technologies 
+Suleman Demiral University
+Graduation Year: 2026
+
+Faculty of Engineering and Natural Sciences
+
+---
+# Hard Skills
+- Python, Javascript
+- Django DRF, ORM
+- HTML & CSS
+- Git
+
+---
+# Soft Skills
+- Time-management
+- Self
 
