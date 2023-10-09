@@ -1,4 +1,7 @@
 # Amangaliyev Meirzhan
+
+---
+https://meirrrrr.github.io/rsschool-cv/cv
 ---
 Hello Everyone!
 My name is Meirzhan! I am 18 years old. I am currently Sophomore in Suleyman Demiral University
