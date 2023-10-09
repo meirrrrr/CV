@@ -43,7 +43,7 @@ Faculty of Engineering and Natural Sciences
 - Turkish (A1)
 
 ## Contacts
-Kaskelen, Almaty, Kazakhstan.⋅⋅ 
+Kaskelen, Almaty, Kazakhstan⋅⋅ 
 *Phone: 8-707-714-69-23⋅⋅
 *Email: meiirzhan04@gmail.com*⋅⋅ 
 *Linkedin: https://www.linkedin.com/in/meirzhan-amangaliyev-a98533252*
